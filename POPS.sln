@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POPS", "POPS\POPS.csproj", "{142D32E6-91A2-42E1-8B63-D6A462DBFBD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestPOPS", "UnitTestPOPS\UnitTestPOPS.csproj", "{9CC99A83-2BD7-4FAD-913A-4AB2692B7FE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{142D32E6-91A2-42E1-8B63-D6A462DBFBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142D32E6-91A2-42E1-8B63-D6A462DBFBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142D32E6-91A2-42E1-8B63-D6A462DBFBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142D32E6-91A2-42E1-8B63-D6A462DBFBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC99A83-2BD7-4FAD-913A-4AB2692B7FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC99A83-2BD7-4FAD-913A-4AB2692B7FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC99A83-2BD7-4FAD-913A-4AB2692B7FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC99A83-2BD7-4FAD-913A-4AB2692B7FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

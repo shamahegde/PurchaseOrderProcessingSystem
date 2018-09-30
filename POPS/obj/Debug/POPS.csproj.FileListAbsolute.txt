@@ -1,0 +1,5 @@
+E:\Projects\POPS\POPS\bin\Debug\POPS.exe.config
+E:\Projects\POPS\POPS\bin\Debug\POPS.exe
+E:\Projects\POPS\POPS\bin\Debug\POPS.pdb
+E:\Projects\POPS\POPS\obj\Debug\POPS.exe
+E:\Projects\POPS\POPS\obj\Debug\POPS.pdb

@@ -1,0 +1,8 @@
+E:\Projects\POPS\UnitTestPOPS\bin\Debug\UnitTestPOPS.dll
+E:\Projects\POPS\UnitTestPOPS\bin\Debug\UnitTestPOPS.pdb
+E:\Projects\POPS\UnitTestPOPS\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projects\POPS\UnitTestPOPS\bin\Debug\POPS.exe
+E:\Projects\POPS\UnitTestPOPS\bin\Debug\POPS.pdb
+E:\Projects\POPS\UnitTestPOPS\obj\Debug\UnitTestPOPS.csprojResolveAssemblyReference.cache
+E:\Projects\POPS\UnitTestPOPS\obj\Debug\UnitTestPOPS.dll
+E:\Projects\POPS\UnitTestPOPS\obj\Debug\UnitTestPOPS.pdb
