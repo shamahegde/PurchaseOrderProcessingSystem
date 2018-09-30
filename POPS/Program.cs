@@ -55,13 +55,13 @@ namespace POPS
             {
                 if (actype == AccType.Savings)
                 {
-                    SavingsAccount s1 = new SavingsAccount();
-                    s1.openAccount(bal, uname);
+                    SavingsAccount savingsAcc = new SavingsAccount();
+                    savingsAcc.openAccount(bal, uname);
                 }
                 else if(actype == AccType.Current)
                 {
-                    CurrentAccount s1 = new CurrentAccount();
-                    s1.openAccount(bal, uname);
+                    CurrentAccount currentAcc = new CurrentAccount();
+                    currentAcc.openAccount(bal, uname);
                 }
             }
             catch(Exception ex)
